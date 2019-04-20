@@ -69,14 +69,13 @@ header {
   grid-gap: 1em;
 }
 
-/*.supersub{
+.supersub {
   background-color: #DBDCB8;
   border-radius: 5px;
   padding: 0.7rem;
-
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
