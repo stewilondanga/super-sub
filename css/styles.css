@@ -60,7 +60,7 @@ header {
   padding: 1em;
   /*IFF no grid
   */
-  /*display: flex;
+  display: flex;
   flex-wrap: wrap;
   /*GRID*/
   /*  display: grid;
