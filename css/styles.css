@@ -30,11 +30,12 @@ p {
   line-height: 1.9em;
 }
 
-/*sup, sub{
-  font-family:'Yatra One', cursive;
+sup, sub {
+  font-family: 'Yatra One', cursive;
   font-size: 1.2rem;
 }
-sup {
+
+/*sup {
   color: #565724;
 }
 sub {
