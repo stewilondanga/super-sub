@@ -35,10 +35,11 @@ sup, sub {
   font-size: 1.2rem;
 }
 
-/*sup {
+sup {
   color: #565724;
 }
-sub {
+
+/*sub {
   color: #451C33;
 }
 header{
