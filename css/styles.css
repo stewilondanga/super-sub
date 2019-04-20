@@ -43,11 +43,12 @@ sub {
   color: #451C33;
 }
 
-/*header{
+header {
   background-color: #714D61;
   text-align: center;
   padding: 1em;
-  h1{
+
+  h1 {
     color: #B094A5;
     font-family: 'Cinzel', serif;
     font-size: 2rem;
@@ -55,6 +56,7 @@ sub {
   }
 }
 
+/*
 .container {
   padding: 1em;
   /*IFF no grid
