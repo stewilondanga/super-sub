@@ -19,16 +19,10 @@
   height: 1.5em;
 }
 
-/*http: //paletton.com/#uid=35b0u0kaAhR5srG8jmncGbMjQb3*/
-$red: #714D61;
-$green: #30492F;
-/*$pink: #B094A5;
-$maroon: #451C33;
-$pale: #DBDCB8;
-$gold: #565724;
+/*
 a{
   text-decoration: none;
-  color: $green;
+  color: #30492F;
   font-weight: bold;
 }
 p{
@@ -40,17 +34,17 @@ sup, sub{
   font-size: 1.2rem;
 }
 sup {
-  color: $gold;
+  color: #565724;
 }
 sub {
-  color: $maroon;
+  color: #451C33;
 }
 header{
-  background-color: $red;
+  background-color: #714D61;
   text-align: center;
   padding: 1em;
   h1{
-    color: $pink;
+    color: #B094A5;
     font-family: 'Cinzel', serif;
     font-size: 2rem;
     letter-spacing: 1.2rem;
@@ -70,7 +64,7 @@ header{
   grid-gap: 1em;
 }
 .supersub{
-  background-color: $pale;
+  background-color: #DBDCB8;
   border-radius: 5px;
   padding: 0.7rem;
 
