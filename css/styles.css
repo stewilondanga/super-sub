@@ -25,11 +25,12 @@ a {
   font-weight: bold;
 }
 
-/*p{
+p {
   font-family: 'Montserrat', sans-serif;
   line-height: 1.9em;
 }
-sup, sub{
+
+/*sup, sub{
   font-family:'Yatra One', cursive;
   font-size: 1.2rem;
 }
